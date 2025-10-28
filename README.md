@@ -52,7 +52,6 @@ Users can:
 - Replace the example email and password in the following files to activate email features:  
   - `Forgotpassword.aspx.cs`  
   - `AdminUserListDetails.aspx.cs`  
-- **Email templates** can be edited at:  
 
 
 ---
